@@ -8,7 +8,7 @@ The purpose of this is to create a stable system of real-time face detection ins
 4) Face Recognition Module (Detection as well as labelling faces with a single example)
 
 ## Set-Up
-
+Paste these commands in the command prompt of your working directory to get started.
 ~~~
 git clone https://github.com/vishrutgrover/Real-Time-Face-Tracking.git
 cd Real-Time-Face-Tracking
