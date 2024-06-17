@@ -5,7 +5,9 @@ The purpose of this is to create a stable system of real-time face detection ins
 1) Mediapipe Holistic Detection for Single Face
 2) BlazeFace Model for Multi Face Detection using Mediapipe (Single Shot Detector (SSD))
 3) Haar Cascade Classifier using OpenCV
-4) Face Recognition Module (Detection as well as labelling faces with a single example)
+4) MTCNN
+5) YOLOv3-face
+6) Face Recognition Module (Detection as well as labelling faces with a single example)
 
 ## Set-Up
 Paste these commands in the command prompt of your working directory to get started.
