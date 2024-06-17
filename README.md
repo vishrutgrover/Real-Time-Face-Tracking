@@ -15,7 +15,7 @@ Project Demo: https://youtu.be/ayyROZQzPm4
 ### Models currently working on
 1) YuNet (Fast and lightweight, almost 1/5th time taken by Haar Cascade)
 2) YOLOv3-face (Taken from the YOLOv3 architecture)
-3) Face Recognition Module (Detection as well as labelling faces with a single example)
+3) Face Recognition Module (Detection as well as labelling faces with a single example (one-shot learning))
 
 ## Set-Up
 Paste these commands in the command prompt of your working directory to get started.
