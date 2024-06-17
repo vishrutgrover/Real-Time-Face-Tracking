@@ -18,7 +18,7 @@ Paste these commands in the command prompt of your working directory to get star
 ~~~
 git clone https://github.com/vishrutgrover/Real-Time-Face-Tracking.git
 cd Real-Time-Face-Tracking
-!pip install -r requirements.txt
+python3 -m pip install -r requirements.txt
 ~~~
 
 Get weights from the drive link https://drive.google.com/drive/folders/1ZJ5Nlr03BunyZwa8DeCTgKgrE-YLCi_j?usp=sharing and save them in the ```weights``` folder which is present in the cloned file directory.
