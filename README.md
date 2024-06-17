@@ -3,15 +3,19 @@ The purpose of this is to create a stable system of real-time face detection ins
 
 Documentation: https://docs.google.com/document/d/175gP1YPAicIntVyl-T3qb4dC_nS7JLezCFVm-b4ooQ4/edit?usp=sharing
 <br>
-Project Demo: 
+Project Demo: https://youtu.be/ayyROZQzPm4
+<br>
 
 ## Models Implemented
 1) Mediapipe Holistic Detection for Single Face
 2) BlazeFace Model for Multi Face Detection using Mediapipe (Single Shot Detector (SSD))
 3) Haar Cascade Classifier using OpenCV
 4) MTCNN
-5) YOLOv3-face
-6) Face Recognition Module (Detection as well as labelling faces with a single example)
+
+### Models currently working on
+1) YuNet (Fast and lightweight, almost 1/5th time taken by Haar Cascade)
+2) YOLOv3-face (Taken from the YOLOv3 architecture)
+3) Face Recognition Module (Detection as well as labelling faces with a single example)
 
 ## Set-Up
 Paste these commands in the command prompt of your working directory to get started.
